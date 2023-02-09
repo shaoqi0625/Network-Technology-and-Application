@@ -1,0 +1,8 @@
+﻿  Router.cpp
+E:\Network Technology and Application\lab5\lab5\Router.cpp(466,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+  正在生成代码
+  0 of 35 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  lab5.vcxproj -> E:\Network Technology and Application\lab5\Release\lab5.exe
